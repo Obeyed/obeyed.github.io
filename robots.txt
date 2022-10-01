@@ -1,0 +1,6 @@
+Sitemap: https://www.obeid.dk/sitemap.xml
+User-agent: *
+Disallow: /vendor*
+Disallow: /css*
+Disallow: /js*
+Disallow: /cdn-cgi*
