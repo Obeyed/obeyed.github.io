@@ -1,4 +1,4 @@
-Sitemap: https://www.obeid.dk/sitemap.xml
+Sitemap: https://obeid.dk/sitemap.xml
 User-agent: *
 Disallow: /vendor*
 Disallow: /css*
